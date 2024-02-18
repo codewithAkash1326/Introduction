@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash chaudhary from Uttar Pradesh.  I am a second-year student pursuing a degree in Computer Science and Engineering. With a strong foundation in programming languages such as C, C++, and Python. I also have experience in web development, particularly in creating simple web pages using HTML and CSS and JavaScript..</h1>
+<h1 align="center">Hi 👋, there I am Akash chaudhary from Uttar Pradesh. I am a frontend web developer with knowledge of HTML , CSS and Javasript(basic)..</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Javascript and ReactJs**
